@@ -131,7 +131,7 @@ summary(all_trips_v2$ride_length)
   
  aggregate(all_trips_v2$ride_length ~ all_trips_v2$usertype + all_trips_v2$day_of_week, FUN = mean)
  
- #Visualizations
+ #Visualization
  
  ## Rider Category
  
@@ -302,8 +302,8 @@ ggplot(plotdata,
    theme_minimal()
 
 ## Proportion of Trip duration based on Rider type
-plotdata <- data_csv_new %>%
-   group_by(day_of_week, member_casual) %>%
+plotdata <- all_trips_v2 %>%
+   group_by(day_of_week, usertype) %>%
    dplyr::summarise(trip_time = sum(ride_length)) %>%
    mutate(pct = as.numeric(trip_time)/sum(as.numeric(trip_time)), lbl = scales::percent(pct))
 
