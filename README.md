@@ -23,7 +23,7 @@ Member riders constitute 81% of the weekday rides, while casual riders constitut
 The top preferred station for casual and member riders is Canal st & Adams St
 Casual riders have a longer ride time than member riders on the average even though the proportion of member riders is higher. 
  
- Recommendations
+# Recommendations
 
 As per analysis July, August and September record the highest number of rides, with August seeing the highest rides. We will recommend that stakeholders run campaigns starting from July until September. Starting with a giveaway promotion at Canal st 7 Adams st station on a Friday, as this is most preffered station by casual riders and one of the days with the highest number of Casual riders.
 
