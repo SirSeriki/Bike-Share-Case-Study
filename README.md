@@ -1,5 +1,5 @@
 # Bike-Share-Case-Study
-This is a capstone project for the Google Analytics professional certification. Cyclists are a fictional bike-share company with a number of Casual and annual members, the key business goal for this analysis is to help guide the design for marketing strategies that are aimed at converting casual riders into annual members. To achieve that the following questions will be answered in this analysis: 
+This is a capstone project for the Google Analytics professional certificate. Cyclists are a fictional bike-share company with a number of Casual and annual members, the key business goal for this analysis is to help guide the design for marketing strategies that are aimed at converting casual riders into annual members. To achieve that the following questions will be answered in this analysis: 
 
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
